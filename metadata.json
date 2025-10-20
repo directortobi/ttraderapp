@@ -1,0 +1,5 @@
+{
+  "name": "TTRADER",
+  "description": "A real-time financial trading application for Deriv, featuring live candlestick charts, trade execution, and account monitoring. Built with React and TypeScript.",
+  "requestFramePermissions": []
+}
